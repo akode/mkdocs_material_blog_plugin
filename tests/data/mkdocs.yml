@@ -1,0 +1,13 @@
+site_name: Test site
+site_description: This is a test site
+site_url: https://example.com
+
+theme:
+  name: material
+  features:
+    - navigation.tabs
+
+plugins:
+    - blog:
+        posts_folder: "blog"
+        use_meta: true
