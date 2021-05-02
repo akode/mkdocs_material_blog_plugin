@@ -1,7 +1,7 @@
 [tool.poetry]
-name = "mkdocs_blog_plugin"
+name = "mkdocs_material_blog_plugin"
 version = "0.1.0"
-description = ""
+description = "This plugin collects all pages in a specified folder and adds them to a separate blog nav structure"
 authors = ["akode <andreas.kodewitz@gmail.com>"]
 
 [tool.poetry.plugins."mkdocs.plugins"]
